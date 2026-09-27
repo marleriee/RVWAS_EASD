@@ -1,2 +1,2 @@
 # RVWAS_EASD
-Results of the Risk-Variable Wide Association Study in the Danish Center for Type 2 Diabetes Research (DD2) Cohort of Individuals with Newly Diagnosed Type 2 Diabetes presented at EASD Milano 2026.
+[![EASD 2026 poster](MRietz_EASD_RV-WAS.png)](MRietz_EASD_RV-WAS.png)
